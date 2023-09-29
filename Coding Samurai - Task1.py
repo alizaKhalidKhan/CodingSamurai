@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
 
 #Internship @Coding Samurai - Task (1)
 """Project Title: To-Do List Application
